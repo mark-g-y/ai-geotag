@@ -7,3 +7,4 @@ agent_old.py
 *.heic
 env/
 .DS_Store
+__pycache__/
