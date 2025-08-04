@@ -1,0 +1,9 @@
+agent_old.py
+*.jpg
+*.jpeg
+*.JPG
+*.JPEG
+*.HEIC
+*.heic
+env/
+.DS_Store
